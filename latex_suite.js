@@ -1,0 +1,1 @@
+C:/Users/summer/OneDrive/App/MyObsidian/Obsidian指北/插件/latex_suite.js
