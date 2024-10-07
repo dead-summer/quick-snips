@@ -614,13 +614,13 @@ endsnippet
 # ==== Auto Math Mode ====
 
 snippet mk "inline Math" wA
-#mi("$1")$0
+$``rv = '#mi("$1")'``$$0
 endsnippet
 
 snippet dm "display Math" wA
-#mitex(`
-$1
-`)
+$
+``rv = '#mitex(\`\n$1\n\`)'``
+$
 $0
 endsnippet
 
