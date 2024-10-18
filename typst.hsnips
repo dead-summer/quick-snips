@@ -29,6 +29,10 @@ snippet .... "dots" iAm
 dots
 endsnippet
 
+snippet ``` "codes" iwA
+`` rv = "\`\`\`$1\n$2\n\`\`\`\n" ``
+endsnippet
+
 snippet derive "derive" iAm
 derive(${1:f}, ${2:x})
 endsnippet
